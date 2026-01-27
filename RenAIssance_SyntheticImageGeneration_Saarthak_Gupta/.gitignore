@@ -9,3 +9,9 @@ models
 proposal.pdf
 output
 CRAFT-pytorch
+# Python virtual environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
